@@ -20,7 +20,7 @@ This is a simple **Text Plagiarism Checker** application built using **Streamlit
 ## Installation
 
 ### Prerequisites
-- Python 3.7 or higher
+- Python 3.12 or higher
 - Conda or virtual environment (optional but recommended)
 
 
