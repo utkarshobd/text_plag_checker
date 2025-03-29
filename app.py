@@ -33,6 +33,6 @@ if st.button("Check Plagiarism"):
         pickle.dump(matching_words, open("matching_words.pkl", "wb"))
         st.write(f"**Plagiarism Percentage:** {similarity_percentage:.2f}%")
         if similarity_percentage == 100:
-            st.write(" Your's 100% text is avialable in first para .")
+            st.write(" Your  100% text is avialable in first para .")
         elif similarity_percentage <=40:
             st.write("Both are different.")
