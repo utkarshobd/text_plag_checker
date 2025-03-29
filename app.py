@@ -5,7 +5,7 @@ from nltk.tokenize import word_tokenize
 import pickle
 
 nltk.download('punkt')
-
+nltk.download('punkt_tab')
 def preprocess_and_tokenize(paragraph):
     cleaned_text = re.sub(r'[^A-Za-z\s]', '', paragraph).lower()
     words = word_tokenize(cleaned_text)
