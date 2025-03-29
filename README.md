@@ -1,4 +1,3 @@
-﻿# text_plag_checker
 https://textplagchecker-bfpavftak2hpeygmptyo68.streamlit.app/
 # Text Plagiarism Checker
 
@@ -24,8 +23,8 @@ This is a simple **Text Plagiarism Checker** application built using **Streamlit
 - Python 3.7 or higher
 - Conda or virtual environment (optional but recommended)
 
-### Steps
-1. Clone the repository:
-   ```bash
+
+To clone the repository:
+[   ```bash
    git clone https://github.com/<your-username>/<your-repository-name>.git
-   cd <your-repository-name>
+   cd <your-repository-name>](https://github.com/utkarshobd/text_plag_checker)
