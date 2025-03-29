@@ -3,4 +3,3 @@ ipython
 nltk
 scikit-learn
 streamlit
-re
